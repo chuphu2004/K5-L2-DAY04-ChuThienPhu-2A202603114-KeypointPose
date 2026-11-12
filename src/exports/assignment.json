@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603114",
+ "ten": "ChuThienPhu",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "yaddicted2004",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000162046.jpg",
+  "000000175703.jpg",
+  "000000194027.jpg",
+  "000000196283.jpg",
+  "000000431893.jpg",
+  "000000193879.jpg",
+  "000000461389.jpg",
+  "000000580257.jpg",
+  "000000359340.jpg",
+  "000000461002.jpg",
+  "000000106051.jpg",
+  "000000381889.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_3348.jpg",
+  "face_469647.jpg",
+  "face_145621.jpg",
+  "face_223746.jpg",
+  "face_168953.jpg",
+  "face_309728.jpg",
+  "face_560526.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 3,
+   "job_id": 3,
+   "task_name": "persons-ChuThienPhu"
+  },
+  "faces": {
+   "task_id": 4,
+   "job_id": 4,
+   "task_name": "faces-ChuThienPhu"
+  }
+ }
+}
